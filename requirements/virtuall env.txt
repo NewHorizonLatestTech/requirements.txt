@@ -1,0 +1,62 @@
+
+python -m venv shoppingmartvenv
+
+		this is my virtual environment name	
+
+cd .\formprojectvenv\
+
+		enter your virtuall env name
+
+activate scripts with this
+
+		Scripts\Activate.ps1
+
+and cd..
+
+		cd..
+
+when upgrade pip with this
+
+		python -m pip install --upgrade pip
+
+and install django with this	
+
+		pip install django
+		pip install pillow
+		pip install panda
+		pip install numpy
+		pip install sqlearn
+
+
+and make a requirments.txt with this
+
+		python -m pip freeze > requirements.txt
+
+
+if you want to install requirments.txt please write this 
+
+		pip install -r requirements.txt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
